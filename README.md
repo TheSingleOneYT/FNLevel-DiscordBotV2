@@ -1,2 +1,2 @@
 # FNLevel-DiscordBotV2
-Reworked version of my ([https://github.com/TheSingleOneYT/FNLevel-DiscordBot] FNLevel-DiscordBot)
+Reworked version of my [FNLevel-DiscordBot](https://github.com/TheSingleOneYT/FNLevel-DiscordBot)!
