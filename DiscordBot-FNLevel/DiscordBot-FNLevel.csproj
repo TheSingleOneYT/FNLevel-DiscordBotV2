@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>DiscordBot_FNLevel</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Discord.Addons.Hosting" Version="3.1.1" />
+    <PackageReference Include="Discord.Net" Version="2.4.0" />
+    <PackageReference Include="Discord.Net.Commands" Version="2.4.0" />
+    <PackageReference Include="Discord.Net.Core" Version="2.4.0" />
+    <PackageReference Include="Discord.Net.WebSocket" Version="2.4.0" />
+    <PackageReference Include="Fortnite-API-Wrapper" Version="2.3.1" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
